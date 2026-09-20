@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:22:04.941Z",
+  "generated_at": "2026-09-20T16:13:07.044Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-09-19T20:22:04.084Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-09-20T16:13:06.021Z",
+      "last_pushed_at": "2026-09-20T16:13:06.021Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
